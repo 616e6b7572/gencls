@@ -76,7 +76,7 @@ MyClass.public();
 	suited, when you need to create a class dynamically or on the fly.
 
 ## Downside
-	Although gencls mimick a class perfectly, but under the stuff it uses
+	Although gencls mimick a class perfectly, but under the hood it uses
 	proxy functions to achive that, which might look like a performance
 	overhead in some situations but not in others. So use it as you 
 	please :)
