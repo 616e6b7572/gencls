@@ -36,9 +36,9 @@ All you need to do is to initialize it, as you would for any class with an objec
 /*
 *
 * GenCls(object)
-* object: Functions having a preceding underscore ( '_fun' ) is treated as a private functon 
-*			which can not be accesed from outside world
-*			and all other functions can be accessed publicly.
+* object: Functions having a preceding underscore ( '_fun' ) is treated 
+*	as a private functon which can not be accesed from outside world
+*	and all other functions can be accessed publicly.
 *
 */
 
